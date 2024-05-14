@@ -17,6 +17,7 @@ Update the table (today you need to fill at least the first two columns)
 | Puczko-Szymański Bruno | [Bruno-PSZ](https://github.com/Bruno-PSZ) |  | Jagoda Trzeciak, Michał Rembelski, Marta Korpacz |
 | Michał Rembalski | [mrembalski](https://github.com/mrembalski) | QQQ | Jagoda Trzeciak, Marta Korpacz, Bruno Puczko-Szymański |
 | Jakub Binda | [jbindaAI](https://github.com/jbindaAI) |TO DO | Anastasiy Ramanchanka, Konstanty Kraszewski, Michalina Wysocka |
+| Mateusz Chojnacki | [M-Chojnacki6](https://github.com/M-Chojnacki6) | ... | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
 
  
 ### Task 2
